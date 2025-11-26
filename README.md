@@ -30,7 +30,7 @@
 </pre>
 </div>
 
-```code
+```ts
 const BAE = () => {
   return (
     <WebDeveloper
@@ -45,7 +45,7 @@ const BAE = () => {
   ) 
 };
 
-export default BAE;
+export default BAE; // Current State - 더 나은 개발자로 성장 중!
 ```
 
 ---
