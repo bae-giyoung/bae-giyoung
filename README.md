@@ -136,18 +136,19 @@ export default BAE;
 ## 📌 대표 프로젝트 (Featured Projects)
 
 ### 🌊 **AI 기반 지하수위 예측 대시보드 – 물알림단 (팀장 & 프론트엔드)**  
-> Next.js + Spring Boot + FastAPI + MySQL  
-> 실시간 기상 API → 모델 예측 → 시각화까지 End-to-End 파이프라인
+> Next.js · Spring Boot · FastAPI · MySQL  
+> 외부 기상 API → 모델 예측 → UI 시각화까지 연결한 End-to-End 흐름 구성
 
-- 전국 12개 관측소 지하수위 예측 (LSTM·Transformer)
-- **3-tier 구조** 구현  
+- 전국 12개 관측소 지하수위 예측 (LSTM · Transformer 모델 기반)
+- **3-tier 구조** 구축  
   (Next.js – Spring Boot – FastAPI)
-- Session 기반 로그인 + MySQL 계정/관측소 정보 관리
-- 대시보드 시각화: Geo Map bubble layer, 신뢰구간, 변동폭 차트
-- 매일 자동 데이터 수집 및 예측 파이프라인 설계 경험
+- Session 기반 로그인 + 계정/관측소 정보 MySQL 연동
+- 대시보드 시각화: Geo Map bubble layer, 신뢰구간/변동폭 차트 구현
+- **외부 기상 API 연동 및 모델 추론 과정 전체 흐름 설계**  
+  → 파이프라인 고도화를 위한 스케줄링·자동화 구조까지 기획 및 시퀀스 정의
 
-➡ **FE Repo:** https://github.com/bae-giyoung/groundwater-nextjs
-(위 레포의 README에서 문서-프로젝트 보고서, 발표 자료 다운로드 가능)
+➡ **FE Repo:** https://github.com/bae-giyoung/groundwater-nextjs  
+<sub>위 레포 README에서 프로젝트 보고서 및 발표 자료 다운로드 가능</sub>
 
 ---
 
