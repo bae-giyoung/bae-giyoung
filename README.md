@@ -148,7 +148,10 @@ export default BAE;
   → 파이프라인 고도화를 위한 스케줄링·자동화 구조까지 기획 및 시퀀스 정의
 
 ➡ **FE Repo:** https://github.com/bae-giyoung/groundwater-nextjs  
-<sub>위 레포 README에서 프로젝트 보고서 및 발표 자료 다운로드 가능</sub>
+> 위 레포 README에서 프로젝트 보고서 및 발표 자료 다운로드 가능
+
+➡ 웹 시연 동영상 (Demo Video)
+  🔗 (https://www.awesomescreenshot.com/video/46379582?key=841a26872d250d5c3c5fcddca08a67d5)
 
 ---
 
