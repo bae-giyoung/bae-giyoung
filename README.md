@@ -1,7 +1,46 @@
-<h1 align="center">👋 Hi, I'm Gi-young Bae</h1>
+<h1 align="center">
+  <span style="
+    background: linear-gradient(90deg, #00b4d8, #48cae4, #90e0ef, #00b4d8);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 36px;
+  ">
+    안녕하세요, 성장하는 웹 개발자 배기영입니다.
+  </span>
+</h1>
+
 <p align="center">
-  Frontend Developer | React · Next.js | Full-stack Curious | AI-aware
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=24&duration=2600&pause=700&color=00BFA6&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Frontend+Developer;React+%7C+Next.js+%7C+Spring+Boot" 
+  />
 </p>
+
+<p align="center">
+  <strong>Frontend Developer · React · Next.js · Spring Boot</strong>
+</p>
+
+```code
+██████╗     █████╗     ███████╗
+██╔══██╗   ██╔══██╗    ██╔════╝
+██████╔╝   ███████║    █████╗  
+██╔══██╗   ██╔══██║    ██╔══╝  
+██████╔╝   ██║  ██║    ███████╗
+╚═════╝    ╚═╝  ╚═╝    ╚══════╝
+
+const BAE = () => {
+  return (
+    <FrontendDeveloper
+      uxFriendly
+      maintainable
+      teamPlayer
+      problemSolver
+      attentionToDetail
+      caffeineLevel="high"
+      curiosity="infinite"
+    />
+  ) 
+};
+```
 
 ---
 
