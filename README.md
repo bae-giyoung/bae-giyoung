@@ -11,25 +11,25 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=24&duration=2600&pause=700&color=00BFA6&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Frontend+Developer;React+%7C+Next.js+%7C+Spring+Boot" 
+    src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=24&duration=2600&pause=700&color=00BFA6&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Web+Developer;React+%7C+Next.js+%7C+Spring+Boot" 
   />
 </p>
 
 <p align="center">
-  <strong>Frontend Developer · React · Next.js · Spring Boot</strong>
+  <strong>Web Developer · React · Next.js · Spring Boot</strong>
 </p>
 
 ```code
-██████╗     █████╗     ███████╗
-██╔══██╗   ██╔══██╗    ██╔════╝
-██████╔╝   ███████║    █████╗  
-██╔══██╗   ██╔══██║    ██╔══╝  
-██████╔╝   ██║  ██║    ███████╗
-╚═════╝    ╚═╝  ╚═╝    ╚══════╝
+██╗    ██╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ███████╗███████╗██████╗ 
+██║    ██║██╔════╝██╔══██╗    ██╔═══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔════╝██╔════╝██╔══██╗
+██║ █╗ ██║█████╗  ██████╔╝    ██║   ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║█████╗  █████╗  ██████╔╝
+██║███╗██║██╔══╝  ██╔══██╗    ██║   ██║██╔══╝  ██║   ██║██╔══╝  ██║     ██║   ██║██╔══╝  ██╔══╝  ██╔══██╗
+╚███╔███╔╝███████╗██████╔╝    ╚██████╔╝███████╗╚██████╔╝███████╗███████╗╚██████╔╝███████╗██║     ██║  ██║
+ ╚══╝╚══╝ ╚══════╝╚═════╝      ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝
 
 const BAE = () => {
   return (
-    <FrontendDeveloper
+    <WebDeveloper
       uxFriendly
       maintainable
       teamPlayer
@@ -40,6 +40,8 @@ const BAE = () => {
     />
   ) 
 };
+
+export default BAE;
 ```
 
 ---
