@@ -31,6 +31,7 @@
 </div>
 
 ```ts
+// Current State - 더 나은 개발자로 성장 중!
 const BAE = () => {
   return (
     <WebDeveloper
@@ -45,7 +46,7 @@ const BAE = () => {
   ) 
 };
 
-export default BAE; // Current State - 더 나은 개발자로 성장 중!
+export default BAE;
 ```
 
 ---
@@ -151,6 +152,51 @@ export default BAE; // Current State - 더 나은 개발자로 성장 중!
 많은 기술과 역할이 유기적으로 연결된 **하나의 시스템**이라고 생각합니다.  
 앞으로도 배우고 탐구하며  
 서비스 품질과 사용자 경험을 높이는 데 기여하고 싶습니다.
+
+> 끊임없이 스스로를 확장해 나가는 타입(Type)의 개발자가 되고 싶습니다.
+
+```ts
+// 나의 성장 로드맵!
+interface Traits {
+  uxFriendly?: boolean;
+  maintainable?: boolean;
+  teamPlayer?: boolean;
+  problemSolver?: boolean;
+  attentionToDetail?: boolean;
+}
+
+interface Flavor {
+  caffeineLevel?: "low" | "medium" | "high" | "unstable";
+  curiosity?: "low" | "normal" | "high" | "infinite";
+}
+
+type BAE<Skills extends Traits & Flavor> = Skills & {
+  role: "Web Developer";
+  grow: <Next extends object>(next: Next) => BAE<Skills & Next>;
+}
+
+const createBAE = <S extends Traits & Flavor>(skills: S): BAE<S> => ({
+  ...skills,
+  role: "Web Developer",
+  grow(next) {
+    return createBAE({ ...skills, ...next });
+  },
+});
+
+// 현재의 나!
+const me = createBAE({
+  uxFriendly: true,
+  maintainable: true,
+  teamPlayer: true,
+  problemSolver: true,
+  attentionToDetail: true,
+  caffeineLevel: "high",
+  curiosity: "infinite",
+});
+
+// 성장하는 중...
+const future = me.grow({ frontend: true }); // 근 미래의 나 - 프론트엔드 개발자!
+```
 
 ---
 
