@@ -68,33 +68,82 @@ export default BAE;
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 기술 스택 (Tech Stack)
 
-### **Frontend**
-- **React · Next.js(App Router)**  
-- TypeScript / JavaScript(ES6+)  
-- TailwindCSS / Styled-components  
-- Zustand / Jotai  
-- Highcharts · Chart.js · GSAP · Swiper.js  
-
-### **Backend / Server**
-- **Java · Spring Boot (Spring MVC / Security / JPA)**  
-- REST API 설계, Session/JWT 기반 인증 구조 설계  
-- MySQL / ERD / 쿼리 최적화 기초  
-
-### **AI / Data**
-- Python · NumPy · Pandas  
-- FastAPI  
-- PyTorch  
-
-### **Infra · Tools**
-- Git · GitHub 
-- Nginx 개념 이해  
-- Figma / Notion
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center;width:20%;">구분</th>
+      <th style="text-align:center;width:40%;">기술 스택</th>
+      <th style="text-align:center;width:40%;">역량</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Frontend</b></td>
+      <td>
+        <p style="text-align:left;">
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,jquery" height="25" /> <br>
+          HTML5, CSS3, JavaScript(ES6), TypeScript, React, Next.js, TailwindCSS, jQuery, GSAP, Swiper.js, Highcharts.js
+        </p>
+      </td>
+      <td>
+        반응형·접근성 표준 준수 <br> 
+        SPA 구조 설계 <br> 
+        상태 관리(Zustand/Jotai 경험 포함) <br> 
+        비동기 데이터 핸들링 <br> 
+        Vanilla JS 기반 프로젝트 수행 가능 <br> 
+        디자인 시안을 코드로 정확히 구현 가능 <br> 
+        실무에 필요한 라이브러리(GSAP·Swiper·Highcharts 등) 빠르게 습득하고 활용 가능
+      </td>
+    </tr>
+    <tr>
+      <td><b>Backend</b></td>
+      <td>
+        <p style="text-align:left;">
+          <img src="https://skillicons.dev/icons?i=java,spring,mysql" height="25" /> <br>
+          Java, Spring Boot, Spring Security, JSP/Servlet, MySQL
+        </p>
+      </td>
+      <td>
+        RESTful API 설계 <br>
+        CRUD 구현 경험 <br>
+        인증·인가 및 웹 보안 기초 <br>
+        JPA 기반 데이터 연동 및 간단한 서비스 로직 구현
+      </td>
+    </tr>
+    <tr>
+      <td><b>Data / AI</b></td>
+      <td>
+        <p style="text-align:left;">
+          <img src="https://skillicons.dev/icons?i=python,pytorch" height="25" /> <br>
+          Python, Pandas, Scikit-learn, PyTorch
+        </p>
+      </td>
+      <td>
+        AI 모델 → React 시각화까지 End-to-End 구현 경험
+      </td>
+    </tr>
+    <tr>
+      <td><b>Tools</b></td>
+      <td>
+        <p style="text-align:left;">
+          <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" height="25" /> <br>
+          Git, SVN, GitHub, VSCode, Eclipse, STS
+        </p>
+      </td>
+      <td>
+        실무 협업 경험 다수 <br>
+        Git Workflow 이해 (branch 관리/PR/코드리뷰) <br>
+        작업 이력 관리 및 협업 프로세스 경험
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 📌 Featured Projects
+## 📌 대표 프로젝트 (Featured Projects)
 
 ### 🌊 **AI 기반 지하수위 예측 대시보드 – 물알림단 (팀장 & 프론트엔드)**  
 > Next.js + Spring Boot + FastAPI + MySQL  
@@ -112,7 +161,7 @@ export default BAE;
 
 ---
 
-### 📝 **Mini-Notion Clone (진행 중 - 1개월 MVP → 3개월 확장 예정)**  
+### 📝 **미니 Notion Clone (진행 중 - 1개월 MVP → 3개월 확장 예정)**  
 > Supabase · Next.js · Zustand · Atomic Design
 
 - 페이지 생성/수정/삭제  
@@ -125,24 +174,34 @@ export default BAE;
 
 ---
 
-### 🧪 **Toy Projects** (예정)
+### 🧪 토이 프로젝트 (Toy Projects) (예정)
 - **Mini Web Browser (Python) – 구현 실험**
 - **Maze Backtracking Visualization (JS/React)**    
 - **GSAP 실험 모음 · Three.js · 인터랙션 Playground**
 
 ---
 
-## 🧩 What I'm Learning Now  
-- React 렌더링 최적화  
-- Zustand 심화  
-- Next.js 서버 경계 · 캐싱 · 라우팅  
-- Java Spring Security 세션 기반 인증 구조
-- WebGL & Shader 기본
-- 컴퓨터 운영체제 등 기본 CS 지식 학습 중
+## 🧩 학습하는 중 (What I'm Learning Now)
+
+### 🔹 Frontend
+- React 렌더링 최적화
+- Zustand 고급 상태 관리 패턴
+- Next.js 서버 경계 · 데이터 캐싱 · 라우팅 심화
+- WebGL · Shader 기본
+
+### 🔹 Backend / Server
+- Spring Security 기반 세션 인증 구조
+- REST API 구조 고도화
+- DB 쿼리 최적화 기초
+
+### 🔹 Computer Science
+- 운영체제(CPU·메모리·프로세스 기본)
+- 네트워크 기본 구조
+- 웹 브라우저 내부 동작
 
 ---
 
-## 🎯 Career Goals  
+## 🎯 성장 목표 (Career Goals)  
 프론트엔드를 중심에 두되,  
 **서버 · 데이터 흐름을 이해하는 개발자**,  
 **문제를 구조적으로 분석해 해결하는 개발자**,  
