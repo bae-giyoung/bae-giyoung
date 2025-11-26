@@ -72,19 +72,18 @@ const BAE = () => {
 
 ### **Backend / Server**
 - **Java · Spring Boot (Spring MVC / Security / JPA)**  
-- REST API 설계, Session 기반 인증 구조 설계  
+- REST API 설계, Session/JWT 기반 인증 구조 설계  
 - MySQL / ERD / 쿼리 최적화 기초  
 
 ### **AI / Data**
 - Python · NumPy · Pandas  
 - FastAPI  
-- PyTorch (LSTM, Transformer 기반 시계열 모델)  
+- PyTorch  
 
 ### **Infra · Tools**
-- Git · GitHub  
-- Docker 기초  
+- Git · GitHub 
 - Nginx 개념 이해  
-- Figma / Notion / Jira  
+- Figma / Notion
 
 ---
 
@@ -101,12 +100,12 @@ const BAE = () => {
 - 대시보드 시각화: Geo Map bubble layer, 신뢰구간, 변동폭 차트
 - 매일 자동 데이터 수집 및 예측 파이프라인 설계 경험
 
-➡ **FE Repo:** https://github.com/bae-giyoung/groundwater-nextjs  
-➡ **BE Repo:** https://github.com/bae-giyoung/groundwater-sts  
+➡ **FE Repo:** https://github.com/bae-giyoung/groundwater-nextjs
+(위 레포의 README에서 문서-프로젝트 보고서, 발표 자료 다운로드 가능)
 
 ---
 
-### 📝 **Mini-Notion Clone (1개월 MVP → 3개월 확장 예정)**  
+### 📝 **Mini-Notion Clone (진행 중 - 1개월 MVP → 3개월 확장 예정)**  
 > Supabase · Next.js · Zustand · Atomic Design
 
 - 페이지 생성/수정/삭제  
@@ -119,28 +118,20 @@ const BAE = () => {
 
 ---
 
-### 📊 **AI 추천 대시보드 (추가 예정)**  
-- 사용자의 주제/분위기에 따라  
-  AI가 배경·음원·영상을 생성해주는 서비스  
-- 프롬프트 엔지니어링 + UI/UX 실험 중심 사이드 프로젝트
-
----
-
-### 🧪 **Toy Projects**
-- **Mini Web Browser (Python) – 기본 렌더러 구현 실험**
-- **Maze Backtracking Visualization (JS/React)**  
-- **Prompt Engineering Playground**  
-- **GSAP 실험 모음 · 인터랙션 Playground**
+### 🧪 **Toy Projects** (예정)
+- **Mini Web Browser (Python) – 구현 실험**
+- **Maze Backtracking Visualization (JS/React)**    
+- **GSAP 실험 모음 · Three.js · 인터랙션 Playground**
 
 ---
 
 ## 🧩 What I'm Learning Now  
 - React 렌더링 최적화  
-- Zustand 심화 (slice 패턴 / 원자적 스토어 구조)  
+- Zustand 심화  
 - Next.js 서버 경계 · 캐싱 · 라우팅  
-- Java Spring Security 세션 기반 인증 구조  
-- C / C++ (메모리 이해를 위한 기반 학습)  
-- WebGL & Shader 기본  
+- Java Spring Security 세션 기반 인증 구조
+- WebGL & Shader 기본
+- 컴퓨터 운영체제 등 기본 CS 지식 학습 중
 
 ---
 
@@ -158,7 +149,7 @@ const BAE = () => {
 ---
 
 ## 📫 Contact
-- **Email**: giyoung.dev@gmail.com  
+- **Email**: giyoung101@naver.com  
 - **GitHub**: https://github.com/bae-giyoung
 
 ---
