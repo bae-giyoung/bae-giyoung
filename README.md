@@ -175,26 +175,6 @@ export default BAE;
 
 ---
 
-## 🧩 학습하는 중 (What I'm Learning Now)
-
-### 🔹 Frontend
-- React 렌더링 최적화
-- Zustand 고급 상태 관리 패턴
-- Next.js 서버 경계 · 데이터 캐싱 · 라우팅 심화
-- WebGL · Shader 기본
-
-### 🔹 Backend / Server
-- Spring Security 기반 세션 인증 구조
-- REST API 구조 고도화
-- DB 쿼리 최적화 기초
-
-### 🔹 Computer Science
-- 운영체제(CPU·메모리·프로세스 기본)
-- 네트워크 기본 구조
-- 웹 브라우저 내부 동작
-
----
-
 ## 🎯 성장 목표 (Career Goals)  
 프론트엔드를 중심에 두되,  
 **서버 · 데이터 흐름을 이해하는 개발자**,  
