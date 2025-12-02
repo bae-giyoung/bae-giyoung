@@ -147,15 +147,6 @@ export default BAE;
 > 기술: Next.js · Spring Boot · FastAPI · MySQL<br />
 > 특징: 외부 기상데이터 API → 모델 예측 API → UI 시각화까지 연결한 End-to-End 흐름 구성
 
-#### 담당 내용
-- Next.js 기반 대시보드 UI/UX 설계 및 구현
-- 지도/차트/표/모달 등 데이터 시각화 컴포넌트 개발
-- Spring Boot · FastAPI 연동 및 데이터 파이프라인 통합 테스트
-- Next.js 프록시(rewrites)로 다중 서버 간 CORS·세션 이슈 해결
-- REST API 명세서 작성
-- **외부 기상 API 연동 및 모델 추론 과정 전체 흐름 설계**  
-  → 파이프라인 고도화를 위한 스케줄링·자동화 구조까지 기획 및 시퀀스 정의
-
 ➡ **FE Repo:** https://github.com/bae-giyoung/groundwater-nextjs  
 > 위 레포 README에서 프로젝트 보고서 및 발표 자료 다운로드 가능
 
