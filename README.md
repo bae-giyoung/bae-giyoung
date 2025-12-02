@@ -143,13 +143,16 @@ export default BAE;
 > AI 기반 지하수위 예측 웹서비스 구축 (End-to-End 프로젝트)<br />
 > 기간: 2025.09~2025.11<br />
 > 팀 구성: 3명(데이터/백엔드/프론트엔드)<br />
-> 역할: 프론트엔드 개발 · 팀장
-> 기술: Next.js · Spring Boot · FastAPI · MySQL  
+> 역할: 프론트엔드 개발 · 팀장<br />
+> 기술: Next.js · Spring Boot · FastAPI · MySQL<br />  
 > 특징: 외부 기상데이터 API → 모델 예측 API → UI 시각화까지 연결한 End-to-End 흐름 구성
 
 #### 담당 내용
-- 대시보드 시각화: Geo Map bubble layer, 신뢰구간/변동폭 차트 구현
-- 백엔드와 연동: Session 기반 로그인 + 계정/관측소 정보 데이터 연동
+- Next.js 기반 대시보드 UI/UX 설계 및 구현
+- 지도/차트/표/모달 등 데이터 시각화 컴포넌트 개발
+- Spring Boot · FastAPI 연동 및 데이터 파이프라인 통합 테스트
+- Next.js 프록시(rewrites)로 다중 서버 간 CORS·세션 이슈 해결
+- REST API 명세서 작성
 - **외부 기상 API 연동 및 모델 추론 과정 전체 흐름 설계**  
   → 파이프라인 고도화를 위한 스케줄링·자동화 구조까지 기획 및 시퀀스 정의
 
