@@ -144,7 +144,7 @@ export default BAE;
 > 기간: 2025.09~2025.11<br />
 > 팀 구성: 3명(데이터/백엔드/프론트엔드)<br />
 > 역할: 프론트엔드 개발 · 팀장<br />
-> 기술: Next.js · Spring Boot · FastAPI · MySQL<br />  
+> 기술: Next.js · Spring Boot · FastAPI · MySQL<br />
 > 특징: 외부 기상데이터 API → 모델 예측 API → UI 시각화까지 연결한 End-to-End 흐름 구성
 
 #### 담당 내용
