@@ -15,14 +15,14 @@
   />
 </p>
 
+<p align="center">
+  <strong>Web Developer · React · Next.js · Spring Boot</strong>
+</p>
+
 ## 🧿 About Me
 > 안녕하세요. 배기영입니다. <br />
 > 사용자 경험을 중요하게 생각하고, 협업·문제 해결·유지보수 가능한 코드를 지향하며, <br />
 > 무한한 호기심과 높은 집중력으로 성장하는 웹 개발자입니다.
-
-<p align="center">
-  <strong>Web Developer · React · Next.js · Spring Boot</strong>
-</p>
 
 <div align="center">
 <pre>
@@ -120,7 +120,6 @@ export default BAE;
       </td>
       <td>
         실무 협업 경험 다수 <br>
-        Git Workflow 이해 (branch 관리/PR/코드리뷰) <br>
         작업 이력 관리 및 협업 프로세스 경험
       </td>
     </tr>
