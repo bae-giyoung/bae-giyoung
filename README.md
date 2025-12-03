@@ -9,17 +9,16 @@
   </span>
 </h1>
 
-## 🧿 About Me
-> 안녕하세요. 배기영입니다. <br />
-> 사용자 경험을 중요하게 생각하고, 협업·문제 해결·유지보수 가능한 코드를 지향하며, <br />
-> 무한한 호기심과 높은 집중력으로 성장하는 웹 개발자입니다.
-
-
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=24&duration=2600&pause=700&color=00BFA6&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Web+Developer;React+%7C+Next.js+%7C+Spring+Boot" 
   />
 </p>
+
+## 🧿 About Me
+> 안녕하세요. 배기영입니다. <br />
+> 사용자 경험을 중요하게 생각하고, 협업·문제 해결·유지보수 가능한 코드를 지향하며, <br />
+> 무한한 호기심과 높은 집중력으로 성장하는 웹 개발자입니다.
 
 <p align="center">
   <strong>Web Developer · React · Next.js · Spring Boot</strong>
