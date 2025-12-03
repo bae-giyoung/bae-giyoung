@@ -9,6 +9,12 @@
   </span>
 </h1>
 
+## 🧿 About Me
+> 안녕하세요. 배기영입니다. <br />
+> 사용자 경험을 중요하게 생각하고, 협업·문제 해결·유지보수 가능한 코드를 지향하며, <br />
+> 무한한 호기심과 높은 집중력으로 성장하는 웹 개발자입니다.
+
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=24&duration=2600&pause=700&color=00BFA6&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Web+Developer;React+%7C+Next.js+%7C+Spring+Boot" 
@@ -49,12 +55,6 @@ const BAE = () => {
 export default BAE;
 ```
 
----
-
-## 🧿 About Me
-> 안녕하세요. 배기영입니다. <br />
-> 사용자 경험을 중요하게 생각하고, 협업·문제 해결·유지보수 가능한 코드를 지향하며, <br />
-> 무한한 호기심과 높은 집중력으로 성장하는 웹 개발자입니다.
 
 ---
 
@@ -79,12 +79,9 @@ export default BAE;
       </td>
       <td>
         반응형·접근성 표준 준수 <br> 
-        SPA 구조 설계 <br> 
         상태 관리(Zustand/Jotai 경험 포함) <br> 
         비동기 데이터 핸들링 <br> 
-        Vanilla JS 기반 프로젝트 수행 가능 <br> 
-        디자인 시안을 코드로 정확히 구현 가능 <br> 
-        실무에 필요한 라이브러리(GSAP·Swiper·Highcharts 등) 빠르게 습득하고 활용 가능
+        Vanilla JS 기반 프로젝트 수행 가능 <br>
       </td>
     </tr>
     <tr>
