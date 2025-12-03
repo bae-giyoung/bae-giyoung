@@ -93,9 +93,8 @@ export default BAE;
       </td>
       <td>
         RESTful API 설계 <br>
-        CRUD 구현 경험 <br>
         인증·인가 및 웹 보안 기초 <br>
-        JPA 기반 데이터 연동 및 간단한 서비스 로직 구현
+        JPA 기반 데이터 연동 및 서비스 로직 구현
       </td>
     </tr>
     <tr>
@@ -130,12 +129,12 @@ export default BAE;
 
 ## 📌 대표 프로젝트 (Featured Projects)
 
-### 🌊 **AI 기반 지하수위 예측 대시보드 – 물알림단 (팀장 & 프론트엔드)** 
+### 🌊 **AI 기반 지하수위 예측 대시보드** 
 #### 프로젝트 개요
 한국과학기술정보연구원(KISTI) 주관 『2025 DATA·AI 분석 경진대회』 과제로 출발한 프로젝트입니다.
 기상·수문 데이터를 기반으로 LSTM·Transformer 모델로 지하수위를 예측하고,
 예측 결과를 웹 대시보드(Next.js)로 시각화한 End-to-End 서비스입니다.
-> AI 기반 지하수위 예측 웹서비스 구축 (End-to-End 프로젝트)<br />
+> AI 기반 지하수위 예측 웹서비스 구축<br />
 > 기간: 2025.09~2025.11<br />
 > 팀 구성: 3명(데이터/백엔드/프론트엔드)<br />
 > 역할: 프론트엔드 개발 · 팀장<br />
@@ -143,30 +142,10 @@ export default BAE;
 > 특징: 외부 기상데이터 API → 모델 예측 API → UI 시각화까지 연결한 End-to-End 흐름 구성
 
 ➡ **FE Repo:** https://github.com/bae-giyoung/groundwater-nextjs  
-> 위 레포 README에서 프로젝트 보고서 및 발표 자료 다운로드 가능
+(위 레포 README에서 프로젝트 보고서 및 발표 자료 다운로드 가능)
 
 ➡ 웹 시연 동영상 (Demo Video)
   🔗 (https://www.awesomescreenshot.com/video/46379582?key=841a26872d250d5c3c5fcddca08a67d5)
-
----
-
-### 📝 **미니 Notion Clone (진행 중 - 1개월 MVP → 3개월 확장 예정)**  
-> Supabase · Next.js · Zustand · Atomic Design
-
-- 페이지 생성/수정/삭제  
-- 사이드바 + 에디터 레이아웃 설계  
-- Supabase Auth 기반 로그인 플로우  
-- 전역 상태관리(Zustand)로 페이지 스토어 구축  
-- MVP 후 AI 추천 기능 · 다중 사용자 협업 기능 확장 예정
-
-➡ Repo: https://github.com/bae-giyoung/mini-notion  
-
----
-
-### 🧪 토이 프로젝트 (Toy Projects) (예정)
-- **Mini Web Browser (Python) – 구현 실험**
-- **Maze Backtracking Visualization (JS/React)**    
-- **GSAP 실험 모음 · Three.js · 인터랙션 Playground**
 
 ---
 
