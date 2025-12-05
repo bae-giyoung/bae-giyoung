@@ -144,6 +144,12 @@ export default BAE;
 ➡ **FE Repo:** https://github.com/bae-giyoung/groundwater-nextjs  
 (위 레포 README에서 프로젝트 보고서 및 발표 자료 다운로드 가능)
 
+➡ **BE Repo:** 보안을 위해 숨김. 필요 시 코드 스니펫 제공 가능.  
+(개인 작업 예정: 전체 통합 배포 후 웹 크론 작업)
+
+➡ **AI API Server Repo:** 보안을 위해 숨김.  
+(개인 작업 예정: 전체 통합 배포 설정 및 이후 데이터 파이프라인 수정)
+
 ➡ 웹 시연 동영상 (Demo Video)
   🔗 (https://www.awesomescreenshot.com/video/46379582?key=841a26872d250d5c3c5fcddca08a67d5)
 
