@@ -15,28 +15,30 @@
   />
 </p>
 
-<p align="center">
-  <strong>Web Developer · React · Next.js · Spring Boot</strong>
-</p>
-
 ## 🧿 About Me
 > 안녕하세요. 배기영입니다. <br />
 > 사용자 경험을 중요하게 생각하고, 협업·문제 해결·유지보수 가능한 코드를 지향하며, <br />
 > 무한한 호기심과 높은 집중력으로 성장하는 웹 개발자입니다.
 
-프론트엔드를 중심에 두되,  
-**서버 · 데이터 흐름을 이해하는 개발자**,  
-**문제를 구조적으로 분석해 해결하는 개발자**,  
-**팀에 기여하는 개발자**로 성장하고 싶습니다.
+<br />
 
-웹 서비스는 단일 기능이 아니라  
-많은 기술과 역할이 유기적으로 연결된 **하나의 시스템**이라고 생각합니다.  
-앞으로도 배우고 탐구하며  
-서비스 품질과 사용자 경험을 높이는 데 기여하고 싶습니다.
+### 포트폴리오
+https://portfolio-2026-tau-five.vercel.app/
 
----
+<br />
 
-## 🚀 기술 스택 (Tech Stack)
+### 핵심 역량
+- React·Next.js 기반 컴포넌트 UI 구현
+- TypeScript 기반 데이터 구조 정의 및 안정적인 화면 렌더링
+- API 연동, 로딩·에러·빈 데이터 상태 처리
+- 시맨틱 마크업, 반응형 웹, 웹 접근성 대응
+- Next.js App Router, SSG, Vercel 배포 흐름 이해
+- Spring Boot REST API, 인증, CORS, 데이터 연동 흐름 이해
+- MySQL 기반 관계형 데이터 구조 및 기본 쿼리 작성
+
+<br />
+
+### 🚀 기술 스택 (Tech Stack)
 
 <table>
   <thead>
@@ -104,7 +106,11 @@
   </tbody>
 </table>
 
+<br />
+
 ---
+
+<br />
 
 ## 📌 대표 프로젝트 (Featured Projects)
 
@@ -148,7 +154,11 @@ Next.js 대시보드에서 시각화한 End-to-End 웹서비스입니다.
 - **Frontend Repo:** https://github.com/bae-giyoung/groundwater-nextjs
 - **Demo Video:** https://www.awesomescreenshot.com/video/46379582?key=841a26872d250d5c3c5fcddca08a67d5
 
+<br />
+
 ---
+
+<br />
 
 ### 🧑‍💻 개인 프론트엔드 포트폴리오 웹사이트
 
