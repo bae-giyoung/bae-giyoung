@@ -24,37 +24,6 @@
 > 사용자 경험을 중요하게 생각하고, 협업·문제 해결·유지보수 가능한 코드를 지향하며, <br />
 > 무한한 호기심과 높은 집중력으로 성장하는 웹 개발자입니다.
 
-<div align="center">
-<pre>
-██╗    ██╗███████╗██████╗     ██████╗ ███████╗██╗   ██╗███████╗██╗       ██████╗ ██████╗ ███████╗██████╗ 
-██║    ██║██╔════╝██╔══██╗    ██╔═══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗ ██╔════╝██╔══██╗
-██║ █╗ ██║█████╗  ██████╔╝    ██║   ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝ █████╗  ██████╔╝
-██║███╗██║██╔══╝  ██╔══██╗    ██║   ██║██╔══╝  ██║   ██║██╔══╝  ██║     ██║   ██║██╔═══╝  ██╔══╝  ██╔══██╗
-╚███╔███╔╝███████╗██████╔╝    ╚██████╔╝███████╗╚██████╔╝███████╗███████╗╚██████╔╝██║      ███████╗██║  ██║
- ╚══╝╚══╝ ╚══════╝╚═════╝      ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚═╝      ╚══════╝╚═╝  ╚═╝
-</pre>
-</div>
-
-```ts
-// Current State - 더 나은 개발자로 성장 중!
-const BAE = () => {
-  return (
-    <WebDeveloper
-      uxFriendly
-      maintainable
-      teamPlayer
-      problemSolver
-      attentionToDetail
-      caffeineLevel="high"
-      curiosity="infinite"
-    />
-  ) 
-};
-
-export default BAE;
-```
-
-
 ---
 
 ## 🚀 기술 스택 (Tech Stack)
@@ -167,71 +136,11 @@ export default BAE;
 서비스 품질과 사용자 경험을 높이는 데 기여하고 싶습니다.
 
 <br/>
-<div align="center">
-═════════════════════════════════════════════════════════════════════════════════
-<pre>
-███╗   ██╗███████╗██╗  ██╗████████╗     ██╗     ███████╗██╗   ██╗███████╗██╗     
-████╗  ██║██╔════╝██║  ██║╚══██╔══╝     ██║     ██╔════╝██║   ██║██╔════╝██║     
-██╔██╗ ██║█████╗  ███████║   ██║        ██║     █████╗  ██║   ██║█████╗  ██║     
-██║╚██╗██║██╔══╝  ██╔══██║   ██║        ██║     ██╔══╝  ██║   ██║██╔══╝  ██║     
-██║ ╚████║███████╗██║  ██║   ██║        ███████╗███████╗╚██████╔╝███████╗███████╗
-╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝   ╚═╝        ╚══════╝╚══════╝ ╚═════╝ ╚══════╝╚══════╝
-</pre>
-  
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Black+Han+Sans&pause=1000&width=435&lines=%EB%81%8A%EC%9E%84%EC%97%86%EC%9D%B4+%EC%8A%A4%EC%8A%A4%EB%A1%9C%EB%A5%BC+%ED%99%95%EC%9E%A5%ED%95%B4+%EB%82%98%EA%B0%80%EB%8A%94+%ED%83%80%EC%9E%85(Type)%EC%9D%98+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EA%B3%A0+%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
-</p>
-═════════════════════════════════════════════════════════════════════════════════
-</div>
-
-
-```ts
-// 현재의 나는 초기값일 뿐!
-interface Traits {
-  uxFriendly?: boolean;
-  maintainable?: boolean;
-  teamPlayer?: boolean;
-  problemSolver?: boolean;
-  attentionToDetail?: boolean;
-}
-
-interface Flavor {
-  caffeineLevel?: "low" | "medium" | "high" | "unstable";
-  curiosity?: "low" | "normal" | "high" | "infinite";
-}
-
-type BAE<Skills extends Traits & Flavor> = Skills & {
-  role: "Web Developer";
-  grow: <Next extends object>(next: Next) => BAE<Skills & Next>;
-}
-
-const createBAE = <S extends Traits & Flavor>(skills: S): BAE<S> => ({
-  ...skills,
-  role: "Web Developer",
-  grow(next) {
-    return createBAE({ ...skills, ...next });
-  },
-});
-
-// 현재의 나!
-const me = createBAE({
-  uxFriendly: true,
-  maintainable: true,
-  teamPlayer: true,
-  problemSolver: true,
-  attentionToDetail: true,
-  caffeineLevel: "high",
-  curiosity: "infinite",
-});
-
-// 레벨업 하는 중...
-const future = me.grow({ frontend: true }); // 근 미래의 나 - 프론트엔드 개발자!
-```
 
 ---
 
 ## 📫 Contact
-- **Email**: giyoung101@naver.com  
+- **Email**: giyoung_work@naver.com  
 - **GitHub**: https://github.com/bae-giyoung
 
 ---
