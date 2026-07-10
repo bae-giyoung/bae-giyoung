@@ -22,8 +22,10 @@
 
 <br />
 
-### 포트폴리오
-[배기영 | 프론트엔드 개발자 포트폴리오] (https://portfolio-2026-tau-five.vercel.app/)
+### 포트폴리오 URL
+[배기영 | 프론트엔드 개발자 포트폴리오](https://portfolio-2026-tau-five.vercel.app/)
+
+`https://portfolio-2026-tau-five.vercel.app/`
 
 <br />
 
