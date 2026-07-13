@@ -201,7 +201,7 @@ Next.js App Router 기반으로 제작한 프론트엔드 개발자 포트폴리
 #### Links
 
 - **Portfolio:** https://portfolio-2026-tau-five.vercel.app/
-- **Repo:** https://github.com/bae-giyoung/portfolio_2026
+- **Repo:** https://github.com/bae-giyoung/portfolio-2026-preview
 
 ---
 
